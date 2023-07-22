@@ -1,0 +1,2 @@
+# XunFeiCompetition-LiDianChi
+锂离子电池生产参数调控及生产温度预测挑战赛
